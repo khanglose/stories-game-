@@ -1,0 +1,6 @@
+{
+  "name": "StoryVerse - Interactive Choice Story",
+  "description": "Interactive branching choice story game with dedicated Admin CMS, Visual Flowchart Graph Editor, Role-Based Security, and Multi-Ending tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
